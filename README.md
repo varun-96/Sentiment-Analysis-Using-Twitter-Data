@@ -7,5 +7,5 @@
    numbers, hyperlinks and stop words, followed by stemming
    and stem completion
 3. Build a term-document matrix
-4. Analyse topics with the topicmodels package
-5. Using sentiment package,we decide that,it is positive or negative sentiment  
+4. Analyse topics with the topicmodels package.
+5. Using sentiment package,we analyze that whether it is positive or negative sentiment.   
