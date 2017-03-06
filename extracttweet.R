@@ -17,10 +17,10 @@ library(plyr)
 library(sentiment)
 
 
-consumer_key <- 'YlDj917en0qwjvE0mytlW6gMt'
-consumer_secret <- 'Rw8QzUL5JEe3qmVMv9VfG1iTofxf5yrTmOiuBBrTtBh3Q54RD9'
-access_token <- '768486637240287232-sSWR62cLUGeFS48niHGcKOHEmPokQk8'
-access_secret <- 'xmsfttGKSPA031uYKlvHOds0kmY2O8otARl801JKYmNmW'
+consumer_key <- 'YlDj917en0qwjvE0mytxxxxxx'
+consumer_secret <- 'Rw8QzUL5JEe3qmVMv9VfG1iTofxf5yrTmOiuBBrTtBzzzzzzzz'
+access_token <- '768486637240287232-sSWR62cLUGeFS48niHGcKOHzzzzzzz'
+access_secret <- 'xmsfttGKSPA031uYKlvHOds0kmY2O8otARl801JKYzzzzzzz'
 
 setup_twitter_oauth(consumer_key = consumer_key, consumer_secret = consumer_secret,
                     access_token = access_token, access_secret = access_secret)
